@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484792882559",
+    "project_id": "task-reminder-app-cd23e",
+    "storage_bucket": "task-reminder-app-cd23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484792882559:android:7de50a439196a1320e364a",
+        "android_client_info": {
+          "package_name": "com.example.final_year_project_myself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484792882559-n7tkqm5c785e63h9ftm4f4n8aveibo48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_year_project_myself",
+            "certificate_hash": "baf8b5846bb73c69e199f0b98e1bb3deae611eb2"
+          }
+        },
+        {
+          "client_id": "484792882559-fso2vvf050rqta06b6idqp0ocp002t5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCde2vvdTM7XqHNzneSh4RxqSDvK6p1f7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484792882559-fso2vvf050rqta06b6idqp0ocp002t5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
